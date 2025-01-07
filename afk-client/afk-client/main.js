@@ -1,7 +1,7 @@
 import fetch from 'node-fetch';  
 import readline from 'readline';
 
-const WEBHOOK_URL = 'https://discord.com/api/webhooks/1296102993460072498/8QO2JF1dZbsA2EI65PcKQg2W5uWXa3KNEbaI5SFxUw4LfMld1jIQdR4gJl1f2NDKsk9N';
+const WEBHOOK_URL = '';
 
 const AFK_TIME_LIMIT = 300000; // 5 Dakika, istediğiniz gibi değiştirebilirsiniz
 
